@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/menu/copy.svg</file>
+        <file>res/menu/cut.svg</file>
+        <file>res/menu/grid.svg</file>
+        <file>res/menu/importimage.svg</file>
+        <file>res/menu/measuring-tape.svg</file>
+        <file>res/menu/new.svg</file>
+        <file>res/menu/open.svg</file>
+        <file>res/menu/paste.svg</file>
+        <file>res/menu/print.svg</file>
+        <file>res/menu/ruler.svg</file>
+        <file>res/menu/save.svg</file>
+        <file>res/menu/saveas.svg</file>
+        <file>res/menu/scale.svg</file>
+        <file>res/menu/sprinkler.png</file>
+        <file>res/menu/undo.svg</file>
+        <file>res/actions/accept.svg</file>
+        <file>res/cursors/measuring-tape .png</file>
+        <file>res/cursors/precision.png</file>
+        <file>res/favicon.ico</file>
+        <file>res/menu/pump.png</file>
+        <file>res/menu/pipeM.png</file>
+        <file>res/menu/zoning.png</file>
+        <file>res/actions/back_icon-icons.com_52398.ico</file>
+        <file>res/actions/forward_icon-icons.com_52386.ico</file>
+        <file>res/menu/valve.png</file>
+        <file>res/menu/measuringTape .png</file>
+        <file>res/menu/open-folder.png</file>
+        <file>res/menu/picture .png</file>
+        <file>res/menu/save.png</file>
+        <file>res/menu/scale.png</file>
+        <file>res/actions/ok-button2.png</file>
+    </qresource>
+</RCC>
